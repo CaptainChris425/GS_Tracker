@@ -1,0 +1,9 @@
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\bin\Debug\GameStat_Tracker.exe.config
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\bin\Debug\GameStat_Tracker.exe
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\bin\Debug\GameStat_Tracker.pdb
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\obj\Debug\GameStat_Tracker.csprojResolveAssemblyReference.cache
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\obj\Debug\GameStat_Tracker.Properties.Resources.resources
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\obj\Debug\GameStat_Tracker.csproj.GenerateResource.Cache
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\obj\Debug\GameStat_Tracker.exe
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\obj\Debug\GameStat_Tracker.pdb
+C:\Users\kicky\Documents\GS_Tracker\GameStat_Tracker\obj\Debug\GameStat_Tracker.GameStatTracker.resources
